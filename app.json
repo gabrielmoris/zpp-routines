@@ -1,8 +1,8 @@
 {
   "configVersion": "v2",
   "app": {
-    "appId": 29030,
-    "appName": "Empty",
+    "appId": 1025663,
+    "appName": "GYM Routines",
     "appType": "app",
     "version": {
       "code": 1,
@@ -10,7 +10,7 @@
     },
     "icon": "icon.png",
     "vender": "zepp",
-    "description": "empty app"
+    "description": "gym-routines"
   },
   "permissions": [],
   "runtime": {
